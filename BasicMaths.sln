@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMaths", "BasicMaths\BasicMaths.csproj", "{C52AE5B5-CC34-498E-9E2B-826E8E5F4050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathsTest", "BasicMathsTest\BasicMathsTest.csproj", "{629FB294-CE27-4BCA-A545-1B113FEEAF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathsApp", "BasicMathsApp\BasicMathsApp.csproj", "{BA95216C-A272-48E0-909E-C4C48694A052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C52AE5B5-CC34-498E-9E2B-826E8E5F4050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52AE5B5-CC34-498E-9E2B-826E8E5F4050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52AE5B5-CC34-498E-9E2B-826E8E5F4050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52AE5B5-CC34-498E-9E2B-826E8E5F4050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629FB294-CE27-4BCA-A545-1B113FEEAF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629FB294-CE27-4BCA-A545-1B113FEEAF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629FB294-CE27-4BCA-A545-1B113FEEAF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629FB294-CE27-4BCA-A545-1B113FEEAF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA95216C-A272-48E0-909E-C4C48694A052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA95216C-A272-48E0-909E-C4C48694A052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA95216C-A272-48E0-909E-C4C48694A052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA95216C-A272-48E0-909E-C4C48694A052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
